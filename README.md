@@ -1,4 +1,4 @@
-﻿# DSA Practice Repository
+﻿# Leet-Push-DSA
 
 This repository contains Java solutions for competitive programming and data structures & algorithms problems.
 It includes classic contest problems, Infosys sample challenges, graph traversal, string transformation, query processing, pattern generation, and more.
